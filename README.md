@@ -21,7 +21,6 @@ I'm Wellington Santos, a passionate self-taught full stack web developer and a f
   <img height="280em" src="https://user-images.githubusercontent.com/109085516/178311297-4cd5f70a-e40a-4802-94e8-a64d5986fdc4.png"></img>
 </div>
 
-![Snake animation](https://github.com/Wellington-Developer/Wellington-Developer/blob/output/github-contribution-grid-snake.svg)
 
 <div class="inline">
   <a href="https://www.linkedin.com/in/wellington-santos-6a2670214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
