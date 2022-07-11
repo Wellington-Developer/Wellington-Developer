@@ -16,9 +16,12 @@ I'm Wellington Santos, a passionate self-taught full stack web developer and a f
           
 
 <div class="inline">
-  <a href="https://github.com/Wellington-Developer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellington-Developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="280em" src="https://user-images.githubusercontent.com/109085516/178311297-4cd5f70a-e40a-4802-94e8-a64d5986fdc4.png"></img>
+  <div class="inline">
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Developer&layout=compact&langs_count=7&theme=dracula" width="50%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellington-Developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  <img height="250em" src="https://user-images.githubusercontent.com/109085516/178311297-4cd5f70a-e40a-4802-94e8-a64d5986fdc4.png"></img>
 </div>
 
 
