@@ -18,7 +18,7 @@ I'm Wellington Santos, a passionate self-taught full stack web developer and a f
 <div class="inline">
   <a href="https://github.com/Wellington-Developer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellington-Developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://user-images.githubusercontent.com/109085516/178311297-4cd5f70a-e40a-4802-94e8-a64d5986fdc4.png"></img>
+  <img height="280em" src="https://user-images.githubusercontent.com/109085516/178311297-4cd5f70a-e40a-4802-94e8-a64d5986fdc4.png"></img>
 </div>
 
 ![Snake animation](https://github.com/Wellington-Developer/Wellington-Developer/blob/output/github-contribution-grid-snake.svg)
