@@ -1,25 +1,26 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" />
-<h3>👋 Hello, friend.</h3>
+<div>
+<img style="margin: 100px" align="left" alt="GIF" width="49%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" />
 
-<p align="left">I'm Wellington Santos, a passionate self-taught full stack web developer and a freelance developer from Brazil. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.<p/><br></br>
+ <br></br><h3 align="right">👋 Eae</h3><p align="right" width="48%" class="margin: 10px">Tenho mais de 5 anos de experiência com desenvolvimento Front-End e UI Design (interação do usuário, UI Motion, desempenho, código limpo, criação de interfaces com animações prontas para uso).
+Sou hábil em projetar, animar e codificar produtos digitais. Sempre procurando fazer mais interfaces com experiências fantásticas.<p/>
+</div>
 
-
-<h3>🛠️ Languages and tools:</h3>  
-<div class="inline">  
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60"/>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/>
-</div><br></br><br></br>
+<h3 align="right">Languages and tools 🛠️</h3>  
+<div class="inline" align="right">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/>
+</div>
 
           
           
           
-
+<br></br><br></br>
 <div>
     <a href="https://github.com/Wellington-Developer">
-    <img width="65%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Developer&layout=compact&langs_count=7&theme=dracula"/>
-    <img width="65%" align="center" src="https://github-readme-stats.vercel.app/api?username=Wellington-Developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Developer&layout=compact&langs_count=7&theme=dracula"/>
+    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=Wellington-Developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
 </div>
 
